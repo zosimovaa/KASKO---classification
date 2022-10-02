@@ -3,7 +3,7 @@
 Качество решения будет оцениваться по величине Gini (внимательнее к данным, имеет смысл их предварительно изучить) и общей аккуратности оформления. Модель должна быть валидирована и результаты валидации должны быть показаны в решении.
 
 # Ссылки
-Ноутбук с решением: [kasko.ipynb](https://bitbucket.org/zosimovaa/kasko-classification/src/master/kasko-2.0.ipynb?viewer=nbviewerw)
+Ноутбук с решением: [kasko.ipynb](https://github.com/zosimovaa/KASKO---classification/blob/master/kasko-2.0.ipynb)
 
 
 
